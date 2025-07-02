@@ -1,0 +1,6 @@
+lsc  project/
+├── index.html         # Página de login
+├── dashboard.html     # Página de cotações
+├── styles.css        # Estilos adicionais (opcional)
+├── scripts.js        # Lógica compartilhada (autenticação e cotações)
+├── data.json         # Simulação de banco de dados
